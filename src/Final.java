@@ -10,4 +10,5 @@ public class Final
 }
 class Test{
     public static final int CONSTANT=10;
+    public static final int CONSTANT2=12;
 }
